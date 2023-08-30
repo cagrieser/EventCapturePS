@@ -5,7 +5,7 @@ Powershell scripti ile izlemek istediğimiz herhangi bir dizini izleyebiliriz.Ge
 
 Bu sebepten dolayı bu script sistemde gerekli izlemeleri yapabiliriz.
 
-`./EventCapture` komutu ile çalıştırabiliriz.
+`./CaptureEvent.ps1` komutu ile çalıştırabiliriz.
 
 Kullanımı basit ve güzel bir araçtır.
 
